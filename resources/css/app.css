@@ -1,0 +1,18 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+
+
+.current-user-class{
+    text-align: right;
+    margin: 5px;
+
+}
+
+.distance-user-class{
+    text-align: left;
+    margin: 5px;
+
+}
+
